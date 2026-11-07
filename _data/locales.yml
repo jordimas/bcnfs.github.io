@@ -1,0 +1,18 @@
+{
+  "en": {
+    "name": "English",
+    "home": "/",
+    "description": "We are a community of Free and Open Source software creators in Barcelona. Our main activity is our meetup group, an open gathering for developers and users who share a love for free software.",
+    "source_code": "Source code",
+    "language_label": "Language",
+    "date_format": "%b %-d, %Y"
+  },
+  "ca": {
+    "name": "Català",
+    "home": "/ca/",
+    "description": "Som una comunitat de creadors de programari lliure i de codi obert de Barcelona. La nostra activitat principal és el grup de Meetup, una trobada oberta a tothom qui desenvolupa o utilitza programari i comparteix la passió pel programari lliure.",
+    "source_code": "Codi font",
+    "language_label": "Llengua",
+    "date_format": "%-d/%-m/%Y"
+  }
+}

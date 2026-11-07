@@ -1,4 +1,6 @@
 ---
+lang: ca
+translation_key: obrintbarcelona
 layout: page
 title: Obrint Barcelona
 ---

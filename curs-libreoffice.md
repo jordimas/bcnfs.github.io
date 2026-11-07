@@ -1,4 +1,6 @@
 ---
+lang: ca
+translation_key: curs-libreoffice
 layout: page
 title: Curs LibreOffice
 permalink: /curs-libreoffice/

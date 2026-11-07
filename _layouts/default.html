@@ -1,5 +1,7 @@
 <!DOCTYPE html>
-<html>
+{% assign current_lang = page.lang | default: site.lang %}
+{% assign locale = site.data.locales[current_lang] %}
+<html lang="{{ current_lang }}">
     {% include head.html %}
   <body>
     {% include header.html %}

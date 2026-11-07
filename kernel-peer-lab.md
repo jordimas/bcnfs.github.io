@@ -1,9 +1,9 @@
 ---
-lang: en
-translation_key: kernel-peer-lab
-permalink: /kernel-peer-lab/
 layout: page
 title: Bcn Kernel Peer Lab
+permalink: /kernel-peer-lab/
+lang: en
+translation_key: kernel-peer-lab
 ---
 
 # Description

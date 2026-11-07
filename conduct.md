@@ -2,6 +2,8 @@
 layout: page
 title: Code of Conduct
 permalink: /conduct/
+lang: en
+translation_key: conduct
 ---
 
 You can read about our Code of Conduct here, note that it's shared with the FSFE.
